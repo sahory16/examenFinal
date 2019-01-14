@@ -4,7 +4,7 @@ home:
   alias: '/home'
 
 pages:
-  theme: quark
+  theme: g5_hydrogen
   markdown:
     extra: false
   process:
